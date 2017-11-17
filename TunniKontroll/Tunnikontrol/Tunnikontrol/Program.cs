@@ -8,24 +8,29 @@ namespace Tunnikontrol
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
+            Encoding enc = new UTF8Encoding(true, true);
+
             Console.WriteLine("Taco Palenque");
             Console.WriteLine("1200 Main ST.");
 
             Console.WriteLine("--------------------------------------------------------------");
 
-            
-            
-                Console.Write("Enter price op food item[-1 to quit]: ");
-                string input = Console.ReadLine();
 
-                int hind = int.Parse(input);
 
+            Console.Write("Enter price op food item[-1 to quit]: ");
+            string input = Console.ReadLine();
+            double hind = double.Parse(input);
 
             while (true)
             {
-                int vastus =  hind{6};
+                                
+                if (hind != -1)
+                {
+                    hind = hind + hind;
+                }
 
                 if (hind == -1)
 
@@ -33,19 +38,21 @@ namespace Tunnikontrol
                     Console.WriteLine("");
                     break;
                 }
+             
 
-                Console.WriteLine("--------------------------------------------------------------");
+            }
 
-                }
-            int percent = 15;
-            var finalamount = vastus;
-            finalamount = System.Math.Round(finalamount, 6);
+            Console.WriteLine("--------------------------------------------------------------");
             int percent = 15;
 
-                                                
-            Console.WriteLine($"Subtotal:" +vastus);
-            Console.WriteLine("15% Gratuity:"+vastus*percent );
-            Console.WriteLine("Total: ");
+
+
+
+
+
+            Console.WriteLine($"Subtotal:" + hind);
+            Console.WriteLine("15% Gratuity:");
+            Console.WriteLine("Total: " +hind*percent);
 
             Console.WriteLine("Press any key to continue...");
 
