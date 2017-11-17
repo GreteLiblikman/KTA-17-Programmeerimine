@@ -15,7 +15,7 @@ namespace _02_Exercise
             int a2 = 4;
             int input = GetUserInput();
 
-            Console.WriteLine($"Hello {input, value}");
+            //Console.WriteLine($"Hello {input, value}");
 
             PrintName(name);
             CalculateThis(a1, a2);
