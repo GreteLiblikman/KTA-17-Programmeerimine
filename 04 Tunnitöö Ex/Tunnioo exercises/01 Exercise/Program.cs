@@ -13,7 +13,6 @@ namespace _01_Exercise
             Random rnd = new Random();
 
             Console.Write("Kuidas Teil läheb? ");
-            Console.Write("");
             string input = Console.ReadLine();
 
             Console.Write($"\nMiks Teil läheb {input} ? ");
