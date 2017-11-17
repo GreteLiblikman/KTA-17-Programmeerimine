@@ -24,14 +24,15 @@ namespace _01_Exercise
             {
                 case 0:
                     {
-                        Console.WriteLine("Huvitav");
+                        Console.WriteLine("\n Huvitav");
                         break;
                     }
                 case 1:
                     {
-                        Console.WriteLine("Tore!");
+                        Console.WriteLine("\n Tore!");
                         break;
                     }
+                    //programm
             }
             Console.ReadLine();
 
