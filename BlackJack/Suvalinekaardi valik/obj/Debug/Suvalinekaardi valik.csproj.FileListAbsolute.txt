@@ -1,0 +1,7 @@
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Suvalinekaardi valik\bin\Debug\Suvalinekaardi valik.exe.config
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Suvalinekaardi valik\bin\Debug\Suvalinekaardi valik.exe
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Suvalinekaardi valik\bin\Debug\Suvalinekaardi valik.pdb
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Suvalinekaardi valik\obj\Debug\Suvalinekaardi valik.csproj.CoreCompileInputs.cache
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Suvalinekaardi valik\obj\Debug\Suvalinekaardi valik.exe
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Suvalinekaardi valik\obj\Debug\Suvalinekaardi valik.pdb
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Suvalinekaardi valik\obj\Debug\Suvalinekaardi valik.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Valikud\bin\Debug\Valikud.exe.config
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Valikud\bin\Debug\Valikud.exe
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Valikud\bin\Debug\Valikud.pdb
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Valikud\obj\Debug\Valikud.csproj.CoreCompileInputs.cache
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Valikud\obj\Debug\Valikud.exe
+C:\Users\Grete\Desktop\Blackjack\BlackJack\Valikud\obj\Debug\Valikud.pdb
