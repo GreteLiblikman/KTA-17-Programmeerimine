@@ -1,0 +1,7 @@
+c:\users\grete\source\repos\Hangmen\Hangmen\bin\Debug\Hangmen.exe.config
+c:\users\grete\source\repos\Hangmen\Hangmen\bin\Debug\Hangmen.exe
+c:\users\grete\source\repos\Hangmen\Hangmen\bin\Debug\Hangmen.pdb
+c:\users\grete\source\repos\Hangmen\Hangmen\obj\Debug\Hangmen.csprojResolveAssemblyReference.cache
+c:\users\grete\source\repos\Hangmen\Hangmen\obj\Debug\Hangmen.csproj.CoreCompileInputs.cache
+c:\users\grete\source\repos\Hangmen\Hangmen\obj\Debug\Hangmen.exe
+c:\users\grete\source\repos\Hangmen\Hangmen\obj\Debug\Hangmen.pdb
