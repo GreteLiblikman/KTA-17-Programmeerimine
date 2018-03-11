@@ -10,6 +10,8 @@ namespace _01_Exercise
     {
         static void Main(string[] args)
         {
+            //Asks about your day
+       
             Random rnd = new Random();
 
             Console.Write("Kuidas Teil läheb? ");
@@ -24,14 +26,15 @@ namespace _01_Exercise
             {
                 case 0:
                     {
-                        Console.WriteLine("Huvitav");
+                        Console.WriteLine("\n Huvitav");
                         break;
                     }
                 case 1:
                     {
-                        Console.WriteLine("Tore!");
+                        Console.WriteLine("\n Tore!");
                         break;
                     }
+                    
             }
             Console.ReadLine();
 
