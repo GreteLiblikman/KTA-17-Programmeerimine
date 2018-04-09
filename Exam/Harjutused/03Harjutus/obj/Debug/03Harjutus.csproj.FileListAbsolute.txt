@@ -1,0 +1,5 @@
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\03Harjutus\bin\Debug\03Harjutus.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\03Harjutus\bin\Debug\03Harjutus.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\03Harjutus\bin\Debug\03Harjutus.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\03Harjutus\obj\Debug\03Harjutus.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\03Harjutus\obj\Debug\03Harjutus.pdb

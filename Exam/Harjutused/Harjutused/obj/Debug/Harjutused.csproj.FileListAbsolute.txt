@@ -1,0 +1,6 @@
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\Harjutused\bin\Debug\Harjutused.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\Harjutused\bin\Debug\Harjutused.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\Harjutused\bin\Debug\Harjutused.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\Harjutused\obj\Debug\Harjutused.csprojResolveAssemblyReference.cache
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\Harjutused\obj\Debug\Harjutused.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\Harjutused\obj\Debug\Harjutused.pdb

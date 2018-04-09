@@ -1,0 +1,12 @@
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\04Harjutus\bin\Debug\04Harjutus.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\04Harjutus\bin\Debug\04Harjutus.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\04Harjutus\bin\Debug\04Harjutus.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\04Harjutus\obj\Debug\04Harjutus.csprojResolveAssemblyReference.cache
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\04Harjutus\obj\Debug\04Harjutus.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Harjutused\04Harjutus\obj\Debug\04Harjutus.pdb
+C:\Users\opilane\Desktop\GreteL\Harjutused\04Harjutus\bin\Debug\04Harjutus.exe.config
+C:\Users\opilane\Desktop\GreteL\Harjutused\04Harjutus\bin\Debug\04Harjutus.exe
+C:\Users\opilane\Desktop\GreteL\Harjutused\04Harjutus\bin\Debug\04Harjutus.pdb
+C:\Users\opilane\Desktop\GreteL\Harjutused\04Harjutus\obj\Debug\04Harjutus.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\GreteL\Harjutused\04Harjutus\obj\Debug\04Harjutus.exe
+C:\Users\opilane\Desktop\GreteL\Harjutused\04Harjutus\obj\Debug\04Harjutus.pdb
