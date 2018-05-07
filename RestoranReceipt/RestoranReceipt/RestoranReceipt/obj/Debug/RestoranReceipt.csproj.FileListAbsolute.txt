@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\RestoranReceipt\RestoranReceipt\RestoranReceipt\bin\Debug\RestoranReceipt.exe.config
+C:\Users\opilane\Desktop\RestoranReceipt\RestoranReceipt\RestoranReceipt\bin\Debug\RestoranReceipt.exe
+C:\Users\opilane\Desktop\RestoranReceipt\RestoranReceipt\RestoranReceipt\bin\Debug\RestoranReceipt.pdb
+C:\Users\opilane\Desktop\RestoranReceipt\RestoranReceipt\RestoranReceipt\obj\Debug\RestoranReceipt.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\RestoranReceipt\RestoranReceipt\RestoranReceipt\obj\Debug\RestoranReceipt.exe
+C:\Users\opilane\Desktop\RestoranReceipt\RestoranReceipt\RestoranReceipt\obj\Debug\RestoranReceipt.pdb
